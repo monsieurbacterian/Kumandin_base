@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Словарь Кумандинского языка</title>
+    <style>
+        :root {
+            --primary-color: #4285f4;
+            --secondary-color: #34a853;
+            --danger-color: #ea4335;
+            --light-gray: #f5f5f5;
+            --dark-gray: #333;
+            --border-color: #ddd;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            color: var(--primary-color);
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2.2rem;
+        }
+        .search-panel {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            padding: 25px;
+            margin-bottom: 30px;
+        }
+        .search-row {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .search-input {
+            flex: 1;
+            padding: 14px 18px;
+            border: 2px solid var(--border-color);
+            border-radius: 8px;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+        .search-input:focus {
+            border-color: var(--primary-color);
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(66, 133, 244, 0.2);
+        }
+        .filter-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            gap: 18px;
+            margin-bottom: 22px;
+        }
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+        }
+        .filter-label {
+            margin-bottom: 10px;
+            font-weight: 600;
+            color: var(--dark-gray);
+            font-size: 15px;
+        }
+        .filter-select {
+            padding: 12px;
+            border: 2px solid var(--border-color);
+            border-radius: 8px;
+            background-color: white;
+            cursor: pointer;
+            font-size: 15px;
+            transition: all 0.3s ease;
+        }
+        .filter-select:focus {
+            border-color: var(--primary-color);
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(66, 133, 244, 0.2);
+        }
+        .button-group {
+            display: flex;
+            justify-content: flex-end;
+            gap: 12px;
+        }
+        .btn {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 15px;
+        }
+        .btn-primary {
+            background-color: var(--primary-color);
+            color: white;
+        }
+        .btn-primary:hover {
+            background-color: #3367d6;
+            transform: translateY(-2px);
+        }
+        .btn-danger {
+            background-color: var(--danger-color);
+            color: white;
+        }
+        .btn-danger:hover {
+            background-color: #d33426;
+            transform: translateY(-2px);
+        }
+        .results-info {
+            margin: 25px 0;
+            padding: 15px;
+            background-color: var(--light-gray);
+            border-radius: 8px;
+            font-style: italic;
+            font-size: 16px;
+            color: #555;
+        }
+        .result-card {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            padding: 25px;
+            margin-bottom: 25px;
+            transition: all 0.3s ease;
+        }
+        .result-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 16px rgba(0,0,0,0.12);
+        }
+        .word-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid var(--light-gray);
+        }
+        .word-title {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--primary-color);
+            margin: 0;
+        }
+        .grammar-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .tag {
+            background-color: var(--light-gray);
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--dark-gray);
+        }
+        .tag-POS {
+            background-color: #e3f2fd;
+            color: #1976d2;
+        }
+        .tag-Case {
+            background-color: #e8f5e9;
+            color: #388e3c;
+        }
+        .tag-Number {
+            background-color: #fff3e0;
+            color: #f57c00;
+        }
+        .tag-Gender {
+            background-color: #f3e5f5;
+            color: #8e24aa;
+        }
+        .definition {
+            font-size: 17px;
+            line-height: 1.8;
+            white-space: pre-line;
+            color: #444;
+        }
+        .no-results {
+            text-align: center;
+            padding: 50px;
+            color: #666;
+            font-style: italic;
+            font-size: 18px;
+        }
+        @media (max-width: 768px) {
+            .search-row {
+                flex-direction: column;
+            }
+            .filter-grid {
+                grid-template-columns: 1fr;
+            }
+            .word-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 10px;
+            }
+            .word-title {
+                font-size: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Словарь Кумандинского Языка</h1>
+    
+    <div class="search-panel">
+        <div class="search-row">
+            <input type="text" id="search-input" class="search-input" placeholder="Введите слово для поиска...">
+        </div>
+        
+        <div class="filter-grid">
+            <div class="filter-group">
+                <label for="pos-filter" class="filter-label">Часть речи</label>
+                <select id="pos-filter" class="filter-select">
+                    <option value="">Все части речи</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <label for="case-filter" class="filter-label">Падеж</label>
+                <select id="case-filter" class="filter-select">
+                    <option value="">Все падежи</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <label for="number-filter" class="filter-label">Число</label>
+                <select id="number-filter" class="filter-select">
+                    <option value="">Все числа</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <label for="gender-filter" class="filter-label">Род</label>
+                <select id="gender-filter" class="filter-select">
+                    <option value="">Все роды</option>
+                </select>
+            </div>
+        </div>
+        
+        <div class="button-group">
+            <button id="reset-btn" class="btn btn-danger">Сбросить</button>
+            <button id="search-btn" class="btn btn-primary">Поиск</button>
+        </div>
+    </div>
+    
+    <div id="results-info" class="results-info"></div>
+    <div id="results-container"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Элементы интерфейса
+            const searchInput = document.getElementById('search-input');
+            const posFilter = document.getElementById('pos-filter');
+            const caseFilter = document.getElementById('case-filter');
+            const numberFilter = document.getElementById('number-filter');
+            const genderFilter = document.getElementById('gender-filter');
+            const searchBtn = document.getElementById('search-btn');
+            const resetBtn = document.getElementById('reset-btn');
+            const resultsContainer = document.getElementById('results-container');
+            const resultsInfo = document.getElementById('results-info');
+            
+            // Загрузка фильтров
+            function loadFilters() {
+                fetch('/grammar_categories')
+                    .then(response => response.json())
+                    .then(data => {
+                        populateFilter(posFilter, data.POS);
+                        populateFilter(caseFilter, data.Case);
+                        populateFilter(numberFilter, data.Number);
+                        populateFilter(genderFilter, data.Gender);
+                    })
+                    .catch(console.error);
+            }
+            
+            // Заполнение фильтра
+            function populateFilter(selectElement, values) {
+                values.forEach(value => {
+                    const option = document.createElement('option');
+                    option.value = value;
+                    option.textContent = value;
+                    selectElement.appendChild(option);
+                });
+            }
+            
+            // Выполнение поиска
+            // Выполнение поиска
+            function performSearch() {
+                const query = searchInput.value.trim();
+                const pos = posFilter.value;
+                const caseValue = caseFilter.value;
+                const number = numberFilter.value;
+                const gender = genderFilter.value;
+                
+                let url = `/search?q=${encodeURIComponent(query)}`;
+                if (pos) url += `&pos=${pos}`;
+                if (caseValue) url += `&case=${caseValue}`;
+                if (number) url += `&number=${number}`;
+                if (gender) url += `&gender=${gender}`;
+                
+                fetch(url)
+                    .then(response => response.json())
+                    .then(data => {
+                        // Если есть поисковый запрос - фильтруем по точному совпадению
+                        if (query) {
+                            const lowerQuery = query.toLowerCase();
+                            data = data.filter(entry => 
+                                entry['Word '].trim().toLowerCase() === lowerQuery
+                            );
+                        }
+                        displayResults(data);
+                    })
+                    .catch(error => {
+                        console.error('Ошибка поиска:', error);
+                        resultsContainer.innerHTML = '<div class="no-results">Ошибка при выполнении поиска</div>';
+                    });
+            }
+            
+            // Отображение результатов
+            function displayResults(results) {
+                resultsInfo.textContent = `Найдено результатов: ${results.length}`;
+                
+                if (results.length === 0) {
+                    resultsContainer.innerHTML = `
+                        <div class="no-results">
+                            По вашему запросу ничего не найдено. Попробуйте изменить параметры поиска.
+                        </div>
+                    `;
+                    return;
+                }
+                
+                resultsContainer.innerHTML = '';
+                results.forEach(entry => {
+                    const card = document.createElement('div');
+                    card.className = 'result-card';
+                    
+                    // Грамматические теги
+                    let tagsHtml = '';
+                    if (entry.POS) tagsHtml += `<span class="tag tag-POS">${entry.POS}</span>`;
+                    if (entry.Case) tagsHtml += `<span class="tag tag-Case">${entry.Case}</span>`;
+                    if (entry.Number) tagsHtml += `<span class="tag tag-Number">${entry.Number}</span>`;
+                    if (entry.Gender) tagsHtml += `<span class="tag tag-Gender">${entry.Gender}</span>`;
+                    
+                    card.innerHTML = `
+                        <div class="word-header">
+                            <h2 class="word-title">${entry['Word '].trim()}</h2>
+                            <div class="grammar-tags">${tagsHtml}</div>
+                        </div>
+                        <div class="definition">${entry[' Definition']}</div>
+                    `;
+                    
+                    resultsContainer.appendChild(card);
+                });
+            }
+            
+            // Сброс фильтров
+            function resetFilters() {
+                searchInput.value = '';
+                posFilter.value = '';
+                caseFilter.value = '';
+                numberFilter.value = '';
+                genderFilter.value = '';
+                resultsInfo.textContent = '';
+                resultsContainer.innerHTML = '';
+            }
+            
+            // Обработчики событий
+            searchBtn.addEventListener('click', performSearch);
+            resetBtn.addEventListener('click', resetFilters);
+            searchInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') performSearch();
+            });
+            
+            // Инициализация
+            loadFilters();
+        });
+    </script>
+</body>
+</html>
