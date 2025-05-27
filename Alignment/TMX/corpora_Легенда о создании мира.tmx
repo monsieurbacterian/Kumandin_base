@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tmx version="1.4">
+    <header creationtool="Lingtrain Alignment Stutio" segtype="sentence" adminlang="ru-RU" srclang="ru-RU" datatype="xml" creationdate="20190909T153841Z" creationid="LINGTRAIN"/>
+    <body>
+        <tu creationdate="20250527T213128Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ӱӱрде ирткен качандаа кудай учы-тӱби чок талай ла аҥ сыртында тегри пӱдир иштен. Ол тегриде узактыг-суҥныг изиг кӱн ле тунуг ай айланышканар.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Давным-давно Бог создал бескрайнее море и небо над ним.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213128Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Че ол тушта чер чок полгон.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>И было на море пустота и тишина.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213128Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Алыкла учы-тӱби чок шым ээниг талай полгон.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Лёгкий ветер колыхал волны вселенского моря, в котором пока не было никакой жизни. И вот однажды ночью издалека прилетела огромная белоснежная птица – лебедь. От взмахов её могучих крыльев заволновалось, встревожилось море. Лебедь снесла в море очень большое яйцо и улетела.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213128Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Пир катап тӱнде ыраактан ньаан ак куу ӱч келькен.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>И вот однажды ночью издалека прилетела огромная белоснежная птица – лебедь.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213128Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Улуг кӱчтиг канатарыны шабылтыр ийерде , талай матап ла тын кумналды.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>От взмахов её могучих крыльев заволновалось, встревожилось море.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213128Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Тыҥ чараш куу талайга ньаан нымыртка салыйкель, ӱчеберды.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Лебедь снесла в море очень большое яйцо и улетела.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213128Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ол ньаан нымыртка учы- пажы чок талайда арткалып комналган сӱге чайканган.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Это яйцо качалось на бескрайних морских волнах. Лунный свет тускло отражался на его гладких волнах.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213128Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Аҥ соонда ӱр эбес талайыныҥ сыртында кызыл от чарыдып изиг, чарык кӱн шыкты.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Затем над морем загорелся красный рассвет.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213128Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Кӱнниҥ шогына нымыртканыҥ ньаны изиди.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Взошло яркое, жаркое солнце.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213128Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ол тушта ӱр эбес кайкаллыг ме полыйды!</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Его прямые лучи стали нагревать поверхность яйца. И затем произошло чудо!</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213128Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ак ньаан нымыртканыҥ сыртында кара торбак пашталып ӧсти.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>На огромном белоснежном яйце стала появляться чёрная плодородная земля.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213128Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ол черге чажыл ӧлӧҥ ле чыш агачтар ӧзеберди.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>На этой земле проросла сочная зелёная трава, затем густые кустарники и деревья.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213128Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Аба чыштыҥ аразында куштарныҥ ӱни угылаберды.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>На их ветвях запели звонкоголосые птицы, а по земле помчались быстроногие стада самых разнообразных животных. Так из огромного лебединого яйца родился наш мир.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

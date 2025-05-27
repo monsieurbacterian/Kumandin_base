@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tmx version="1.4">
+    <header creationtool="Lingtrain Alignment Stutio" segtype="sentence" adminlang="ru-RU" srclang="ru-RU" datatype="xml" creationdate="20190909T153841Z" creationid="LINGTRAIN"/>
+    <body>
+        <tu creationdate="20250527T213130Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Пир тушта, качандаа чыш черде, айры чагазында, аальда кижилер чаткан.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Когда-то в лесном краю на берегу реки жили люди.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213130Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ол аальда пир чуртта апшыйач ла куртыйач чаткан.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>В одном аиле жили старик и старушка.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213130Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Анарда пала чок полгон.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>У них не было детей.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213130Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ийде ле икеле кӱннерди ӱтиргенер.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Так вдвоём и проводили время.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213130Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Че пир катап куртыйач апшыйагына пийде айтты: «-Пистиҥ азык тӱгенчит, аҥнап паркельзеҥ чакшы ок полтеди».</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>И вот однажды старушка сказала своему старику: «У нас заканчиваются запасы еды, сходил бы ты на охоту».</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213130Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Аны угып апшыйак аҥнап парарга чепсенди.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Услышав её слова, старик стал собираться на охоту в лес. Там, в лесу, застрелил одного зверя. Разделав добычу, сложил в мешок, по дороге домой несколько раз отдыхал.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213130Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Аҥнап аба – чышла чӱрип пир аҥды адалды.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Когда старик пришёл домой с добычей, старушка обрадовалась.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213130Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ол аҥды оҥдайлап капына салалды.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Там, в лесу, застрелил одного зверя.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213130Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Чолачын канча, канча катап тынаналып ӱйине четти.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Разделав добычу, сложил в мешок, по дороге домой несколько раз отдыхал.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213130Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Куртыйач удура шыгып сӧӧнпарды.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Когда старик пришёл домой с добычей, старушка обрадовалась. Старик сильно устал с дороги, сказал старушке: «Был бы у нас мальчик, нам бы было легче с тобой». Отдохнули, подкрепились мясом и старушка говорит своему старику: «Вот сходил бы ты к Богу и попросил бы у него нам мальчика, как бы было хорошо. Старик согласился пойти к Богу.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213130Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ийде тынаналып, чийиналып Куртыйач апшыйагына айтты: «-Сен кудайдыҥ оолак сурап паркельтен ползоҥ, чакшы полтеди».</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Отдохнули, подкрепились мясом и старушка говорит своему старику: «Вот сходил бы ты к Богу и попросил бы у него нам мальчика, как бы было хорошо.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213130Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Апшыйак чӧпсалый кель кудайзары суранарга парды.Кудайга четкенде, кудай ага пийде айчиты: «- Мен сени пойымныҥ шийигиме шийсалдым. Ӱге ньанып, айрыга карчӧ ле сӱген салып, палык капарзын.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Старик согласился пойти к Богу.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213130Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ол палыкты кижилерге ӱлеп перерзин».</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Когда пришёл к Богу, ему Бог говорит: «Я всё знаю, ты записан в моей книге.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213130Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ийде ӱге ньанып, айрыларга карчӧле салып палыктар капты.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Иди домой, налови рыбы и раздай людям». Вернувшись домой, старик так и сделал.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213130Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ол капкан палыкты кижилеге ӱлен.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Поставил на реке ловушки, наловил рыбы и раздал людям, и так рыбачил и радовал людей своей добычей.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213130Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ийде палык аҥнап сӱглеп тогыс ай ӧте перди.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Вот прошло время, у старика и старушки родился мальчик.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213130Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Апшыйач ла Куртыйач палалыг полыйдилер. Ол туштаҥ ала анаҥ чатынары алындадын абыр, сӧништиг текши полыйды.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>С тех пор у них началась спокойная, радостная, хорошая жизнь.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

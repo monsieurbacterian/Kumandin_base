@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tmx version="1.4">
+    <header creationtool="Lingtrain Alignment Stutio" segtype="sentence" adminlang="ru-RU" srclang="ru-RU" datatype="xml" creationdate="20190909T153841Z" creationid="LINGTRAIN"/>
+    <body>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>По Кип-Чӧрчекти кӧргенде ирткан тушта чер чайанныҥ куттары куштарныҥ кебери кийалып, куулар полып ньаан кӧльге ӱчип тӱштилер.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Согласно легенде, в древние времена духи природы, преобразившись в лебедей, прилетели с голубых небес на большое озеро.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ӱч куу кӧк тегридеҥ черге тӱжип тынаньерге канаттарыны тежийдилер.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Три лебедя спустились на землю и сняли с себя крылья, чтобы отдохнуть.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Кенетке ле чараш кыстар пол айланыйдылер.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Сбросив с себя крылья, превратились в прекрасных девушек. В это время мимо озера проходил молодой охотник. Он оказался случайным свидетелем этого чуда и влюбился в одну из этих красавиц. А чтобы она не улетела в небеса, спрятал её крылья.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ийде кыстар полыйып сӧӧништиг сӱге шомарга кирийдилер.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Девушки весело искупавшись, вышли на берег озера.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ол тушта кӧльниҥ кырынчи аҥчи оол парганпон.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>В это время мимо озера проходил молодой охотник. Он оказался случайным свидетелем этого чуда и влюбился в одну из этих красавиц.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Элебиндаа кайкалыг куштарныҥ айланчынарыны кӧречи полпарды.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>А чтобы она не улетела в небеса, спрятал её крылья.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Аҥчи оол ол куу кыс тегризьары катап ок ӱчебербезин деп кууныҥ канатарыны шырбалар аразынзары суксалды.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Девушки весело искупавшись, вышли на берег озера. Когда захотели надеть свои крылья, то не нашли одной пары крыльев.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Кыстар ползо аҥчыны элебин сӧништиг каткыла сӱге шомалып чарзары шыгыйдылер.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Девушки весело искупавшись, вышли на берег озера.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Канаттарыны кийаларга кӧрзелер пир кыстыҥ канатары чок.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Когда захотели надеть свои крылья, то не нашли одной пары крыльев.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Че черде арткан кыс тыҥ клеглиг пойыныҥ тапынган канатарыны тыҥдады.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Две девушки надели свои крылья и превратились в лебедей, попрощались со слезами с третьей девушкой и улетели в синее небо. Оставшаяся на земле девушка с грустью искала свои крылья.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ол тушта шырбалар аразындаҥ аҥчи оол шыккельди.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Вдруг из зарослей кустарника вышел охотник и пошёл в сторону девушки.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Аҥ колында кыстыҥ канаттары полгон.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>В руках нёс её крылья. Подойдя к девушке сказал: «Прости меня, не обижайся.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Чагынап келеле пийде айтты: « Сен мага тартынба.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Вдруг из зарослей кустарника вышел охотник и пошёл в сторону девушки. В руках нёс её крылья. Подойдя к девушке сказал: «Прости меня, не обижайся.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Мен сеҥ канаттарыҥы суксан полгом.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Твои крылья я спрятал, чтобы ты не улетела с подругами в небеса.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Сени ӱчебербезин деп тегризьары.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Я сильно полюбил тебя.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Мен сага тыҥ кӧӧленпам.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Будь моей спутницей по жизни». Девушка простила охотника и осталась с ним на земле среди людей.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Аргыжым ползаҥ.»</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Будь моей спутницей по жизни».</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Оолныҥ айтканы кыс угалып чӧпке кирийди.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Девушка простила охотника и осталась с ним на земле среди людей.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ийде Куу- Кыс кӧк тегризары ӱчполалбын аҥчыла чурт тудып, кижилер аразында арткалды.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Будь моей спутницей по жизни». Девушка простила охотника и осталась с ним на земле среди людей.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Анаҥ чурттан калык тазыл алып паштал чайалды.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>От них пошёл кумандинский народ, которого с тех пор называют «Лебединым народом».</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213127Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Че кӱски сайын чылыг чарзьары ӱччин куштар пойыныҥ кижилер аразында арткан Куу-Кысты сананкель кӱӱглижал ол черде чаткан кижилерге эзен ийчилер.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Осенней порой, когда птицы улетают на зимовье в тёплые края мимо тех земель, где осталась девушка-лебедь, с голубых небес слышатся их голоса.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tmx version="1.4">
+    <header creationtool="Lingtrain Alignment Stutio" segtype="sentence" adminlang="ru-RU" srclang="ru-RU" datatype="xml" creationdate="20190909T153841Z" creationid="LINGTRAIN"/>
+    <body>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Тӱндӱк черде, ньаан Умар айрыныҥ чагазында кийик тутан калык чаткан.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>На севере, на берегу большой реки Обь жил народ, который держал оленей.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Анда пир катап ньаан коран полып тыҥ агрып калык кырыл чӱребенер.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Однажды там случилась большая беда, люди сильно заболели и стали умирать.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ол черде пир ле ир пала тириг арткалды.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Остался один только мальчик. Ещё при жизни отец ему говорил: «Если останешься в живых, то на олене поедешь вверх по берегу реки до слияния двух рек. Там встретишь, людей у них и останешься.»</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ол олакка чети ле чаш полгон.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Осиротевший мальчик запряг оленя и поехал вверх по берегу реки.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Тириг тушта аҥ адазы ага пийде айткан: «- Ньагыс арткалзаҥ палам, кийикке олтаралып айры ӧре парарзын.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Ещё при жизни отец ему говорил: «Если останешься в живых, то на олене поедешь вверх по берегу реки до слияния двух рек.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ол айрыга ӧске айры сӱг кожылза ла сен кижилерге туштажарзын. Анарда ла арткаларзын.»</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Там встретишь, людей у них и останешься.»</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ийде ӧскӱс пала кийигини чепсеп алып айры ӧрӧ чарпаштап шыга парды.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Осиротевший мальчик запряг оленя и поехал вверх по берегу реки.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Канча да кӱн пажында ол айры сӱглер пирге кожылганга четти.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>У слияния двух рек, Бии и Катуни, он увидел домик для охотников.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ол ок тушта ага пир ӱйичик кӧрин парды.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Решил там отдохнуть. Тут услышал лай собак.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Андын удура палага кижилер шыкты. Палага аҥчылар положып угзьары кычырдылар.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Из домика вышли люди и встретили его.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Оолактыҥ ады Альчи, ага чети чаш полгон.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Мальчика звали Альчи, ему было семь лет.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Ол аҥчыларга парчын ме аҥ черинде кандыꜰ коран полган чоктаперди.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Он рассказал охотникам всё, что случилось на его земле.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Аҥчылар Альчины пойларында артысалдылар.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Охотники мальчика оставили у себя, а сами ещё немного поохотившись на белок и соболей, через несколько дней стали собираться домой. Альчи тоже запряг оленя и вместе с охотниками поехал в их деревню. Приехав домой, охотники рассказали местным жителям всё, что узнали от мальчика. И так Альчи остался жить в деревне.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Пойлоры канчеп та аҥнап чӱрип тийиҥнер, киштер аҥнапалып ӱрзьары ньандылар.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Вырос большим, обзавёлся семьёй, родились дети, от этих детей пошли ещё дети.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Альчи кийигини чеп сепалып аҥчыларла кожо парды.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>А оленя, на котором приехал Альчи, звали Тоон, что значит на языке хантов Олень. Поэтому потомков Альчи у кумандинцев называют Тоон сёк и деревню в которой они жили называют Тоонар.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Аальга ньанып аҥчылар кижилерге парчын чоктапердилер. Кайде Альчи оолак пойыныҥ кийигиле анаҥ аҥчи ӱйечекке келип анарга кожыльены.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Приехав домой, охотники рассказали местным жителям всё, что узнали от мальчика.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Пистиҥ аразында Альчи ньаан ӧзьалып, кижи алалып, чурт тудаберди.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>И так Альчи остался жить в деревне. Вырос большим, обзавёлся семьёй, родились дети, от этих детей пошли ещё дети.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Андын ӧскен палардын кӧп кижилер полыйды.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Поэтому потомков Альчи у кумандинцев называют Тоон сёк и деревню в которой они жили называют Тоонар.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Анарды тоон сӧк деп адапсалдылар.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Приехав домой, охотники рассказали местным жителям всё, что узнали от мальчика. И так Альчи остался жить в деревне. Вырос большим, обзавёлся семьёй, родились дети, от этих детей пошли ещё дети. А оленя, на котором приехал Альчи, звали Тоон, что значит на языке хантов Олень.</seg>
+            </tuv>
+        </tu>
+        <tu creationdate="20250527T213132Z" creationid="LINGTRAIN">
+            <tuv xml:lang="en-US">
+                <seg>Альныҥ ады Тоонор полыйды.</seg>
+            </tuv>
+            <tuv xml:lang="ru-RU">
+                <seg>Поэтому потомков Альчи у кумандинцев называют Тоон сёк и деревню в которой они жили называют Тоонар.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>
